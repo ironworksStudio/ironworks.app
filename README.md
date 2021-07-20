@@ -31,7 +31,7 @@ of conduct, and the process for submitting pull requests to us.
 
 We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
 available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
+repository](https://github.com/ironworksStudio/ironworks.app/tags).
 
 ## Authors
 
@@ -39,13 +39,13 @@ repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
     [althaiaDev](https://github.com/althaiaDev)
 
 See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
+[contributors](https://github.com/ironworksStudio/ironworks.app/graphs/contributors)
 who participated in this project.
 
 ## License
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
+This project is licensed under the [GPL-3.0 License](LICENSE.md)
+GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for
 details
 
 ## Acknowledgments
